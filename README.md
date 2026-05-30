@@ -1,6 +1,5 @@
 # Cycle-1-2-Implementation-of-distance-vector-routing-protocol-RIP-Cisco-packet-tracer
 # 🧪 EXPT.NO: 2  
-📅 DATE: *(Insert Date)*
 
 ## 📌 TITLE  
 **Implementation of Distance Vector Routing Protocol (RIP)**
@@ -43,7 +42,7 @@ To connect computers in multiple networks using Distance Vector Routing Protocol
 ---
 
 ## 🗺️ NETWORK DIAGRAM  
-*(Insert diagram or screenshot from Packet Tracer)*
+
 
 ---
 <img width="1082" height="423" alt="image" src="https://github.com/user-attachments/assets/c87b4e16-a5ab-4f20-acba-4140468d3b4d" />
